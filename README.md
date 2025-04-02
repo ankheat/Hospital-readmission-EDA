@@ -71,7 +71,7 @@ Feel free to contribute by submitting issues or pull requests.
 
 This project is licensed under the MIT License.
 
-##Contact
+## Contact
 
 For questions or collaborations, contact ank30.sharma@gmail.com 
 
