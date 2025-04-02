@@ -1,10 +1,10 @@
-###Exploratory Data Analysis (EDA) on Patient Admissions and Treatment Outcomes
+### Exploratory Data Analysis (EDA) on Patient Admissions and Treatment Outcomes
 
-##Overview
+## Overview
 
 This project performs Exploratory Data Analysis (EDA) on patient admissions and treatment outcomes, uncovering trends in diagnoses, length of hospital stays, and recovery rates. Through visualizations and statistical insights, the analysis aids in hospital resource planning and treatment optimization.
 
-##Features
+## Features
 
 Data cleaning and preprocessing
 
@@ -16,7 +16,7 @@ Insights on patient demographics and treatment effectiveness
 
 Correlation analysis between variables
 
-##Dataset
+## Dataset
 
 The dataset includes:
 
@@ -26,13 +26,13 @@ Admission Details: Admission date, Discharge Date
 
 Outcome Data: Treatment Outcome
 
-##Dependencies
+## Dependencies
 
 Ensure you have the following installed:
 
 pip install pandas numpy matplotlib seaborn scipy
 
-##Usage
+## Usage
 
 Clone the repository:
 
@@ -47,7 +47,7 @@ OR
 
 python eda_analysis.py
 
-##Visualizations
+## Visualizations
 
 Distribution of patient age and hospital stay
 
@@ -55,7 +55,7 @@ Common diagnoses and outcome
 
 Correlation between hospital stay duration and recovery
 
-##Insights
+## Insights
 
 Identifies key factors influencing patient recovery
 
@@ -63,11 +63,11 @@ Highlights seasonal trends in hospital admissions
 
 Provides data-driven recommendations for resource allocation
 
-##Contributing
+## Contributing
 
 Feel free to contribute by submitting issues or pull requests.
 
-##License
+## License
 
 This project is licensed under the MIT License.
 
