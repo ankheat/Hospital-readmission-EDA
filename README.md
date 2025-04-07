@@ -37,15 +37,12 @@ pip install pandas numpy matplotlib seaborn scipy
 Clone the repository:
 
 git clone [https://github.com/yourusername/eda-patient-analysis.git](https://github.com/ankheat/Hospital-readmission-EDA)
-cd eda-patient-analysis
+cd Hospital-readmission-EDA
 
 Run the Jupyter Notebook or Python script to analyze the data:
 
-jupyter notebook eda_analysis.ipynb
+jupyter notebook Healthcare_Data_Analysis.ipynb
 
-OR
-
-python eda_analysis.py
 
 ## Visualizations
 
